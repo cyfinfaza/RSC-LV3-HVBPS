@@ -5,8 +5,488 @@
 	(uuid "939a4355-c5e2-4524-9a6c-77ba21cefdd4")
 	(paper "A4")
 	(lib_symbols)
+	(global_label "IN_1"
+		(shape output)
+		(at 88.9 30.48 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "00d79312-139f-441f-8111-1e60103dbae4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.8024 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "IN_7"
+		(shape output)
+		(at 88.9 121.92 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3465e4fb-9086-4463-87a0-d7fd8cb86f89")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.8024 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "IN_10"
+		(shape output)
+		(at 88.9 167.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "56284066-8c5d-409d-9778-dcdd11e69cf9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.8024 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "IN_5"
+		(shape output)
+		(at 88.9 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5920492f-0991-4954-8cba-27a3c774a7bc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.8024 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT_5"
+		(shape input)
+		(at 88.9 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5c8ba27e-7026-4798-8c01-42fdaf170d3b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.1091 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT_8"
+		(shape input)
+		(at 88.9 134.62 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5ed3ea09-4c2d-4792-a9a5-db6d0d2a6c06")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.1091 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "IN_8"
+		(shape output)
+		(at 88.9 137.16 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6730aca2-97fb-46d5-a604-e50729b317f3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.8024 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT_7"
+		(shape input)
+		(at 88.9 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6a0bbfd0-75a4-4cf1-b4a1-af6bad57edfb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.1091 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT_3"
+		(shape input)
+		(at 88.9 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6fd23956-ce33-4fc3-9413-2914ad3637c5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.1091 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "IN_9"
+		(shape output)
+		(at 88.9 152.4 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7daa6e34-d8f3-4f0c-a15f-20d8b10c2c72")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.8024 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT_6"
+		(shape input)
+		(at 88.9 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7dedf585-8783-47b8-9fd5-9c2199caaa8f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.1091 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT_9"
+		(shape input)
+		(at 88.9 149.86 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8be29ac5-4f23-4d05-bbd2-225a4714469b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.1091 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT_10"
+		(shape input)
+		(at 88.9 165.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ae4693a7-ddb9-4474-91b0-c9d5efaf96f2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 78.8996 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "IN_4"
+		(shape output)
+		(at 88.9 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c57903b4-481c-46ea-a69d-36c5cfe9645d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.8024 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "IN_2"
+		(shape output)
+		(at 88.9 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e216bd49-79ec-4bec-a0a8-ec887f27718a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.8024 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT_4"
+		(shape input)
+		(at 88.9 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e4470efd-3be7-46b1-9205-831ccbf96774")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.1091 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT_1"
+		(shape input)
+		(at 88.9 27.94 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f114138f-b48e-4347-a7c5-26bf95ee6ee5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.1091 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "IN_6"
+		(shape output)
+		(at 88.9 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f11dba3c-f730-47cc-b595-2b55caff172b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.8024 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "IN_3"
+		(shape output)
+		(at 88.9 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f149e0ed-a6b0-4882-b3db-35033dc95d33")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.8024 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "OUT_2"
+		(shape input)
+		(at 88.9 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fbef97aa-d007-4fd5-9244-d5b64a6d1a00")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.1091 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(sheet
-		(at 38.1 85.09)
+		(at 88.9 71.12)
 		(size 25.4 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +502,7 @@
 		)
 		(uuid "19ff984b-2558-4eca-abbf-d6f3f8114e5c")
 		(property "Sheetname" "SwitchSense 4"
-			(at 38.1 84.3784 0)
+			(at 88.9 70.4084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33,7 +513,7 @@
 			)
 		)
 		(property "Sheetfile" "SwitchSense.kicad_sch"
-			(at 38.1 93.2946 0)
+			(at 88.9 79.3246 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -44,7 +524,7 @@
 			)
 		)
 		(pin "FET_EN" input
-			(at 38.1 87.63 180)
+			(at 88.9 73.66 180)
 			(uuid "b80563ed-8587-453d-af7d-48187afe30ee")
 			(effects
 				(font
@@ -54,7 +534,7 @@
 			)
 		)
 		(pin "SW_SENSE" output
-			(at 38.1 90.17 180)
+			(at 88.9 76.2 180)
 			(uuid "9019bf70-504d-4d97-882e-c7b8322a5651")
 			(effects
 				(font
@@ -72,7 +552,7 @@
 		)
 	)
 	(sheet
-		(at 38.1 161.29)
+		(at 88.9 147.32)
 		(size 25.4 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -88,7 +568,7 @@
 		)
 		(uuid "284bac0b-8034-4fc0-8bac-ddd1b681bd4f")
 		(property "Sheetname" "SwitchSense 9"
-			(at 38.1 160.5784 0)
+			(at 88.9 146.6084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -99,7 +579,7 @@
 			)
 		)
 		(property "Sheetfile" "SwitchSense.kicad_sch"
-			(at 38.1 169.4946 0)
+			(at 88.9 155.5246 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -110,7 +590,7 @@
 			)
 		)
 		(pin "FET_EN" input
-			(at 38.1 163.83 180)
+			(at 88.9 149.86 180)
 			(uuid "d706ae19-a55e-4af4-b238-8e68984992f5")
 			(effects
 				(font
@@ -120,7 +600,7 @@
 			)
 		)
 		(pin "SW_SENSE" output
-			(at 38.1 166.37 180)
+			(at 88.9 152.4 180)
 			(uuid "ad89c314-eb1f-49e3-9739-19943ae65bed")
 			(effects
 				(font
@@ -138,7 +618,7 @@
 		)
 	)
 	(sheet
-		(at 38.1 115.57)
+		(at 88.9 101.6)
 		(size 25.4 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -154,7 +634,7 @@
 		)
 		(uuid "28e395e2-6c16-4ec7-acf6-7618cc9764d3")
 		(property "Sheetname" "SwitchSense 6"
-			(at 38.1 114.8584 0)
+			(at 88.9 100.8884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -165,7 +645,7 @@
 			)
 		)
 		(property "Sheetfile" "SwitchSense.kicad_sch"
-			(at 38.1 123.7746 0)
+			(at 88.9 109.8046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -176,7 +656,7 @@
 			)
 		)
 		(pin "FET_EN" input
-			(at 38.1 118.11 180)
+			(at 88.9 104.14 180)
 			(uuid "5fedda85-261c-46bd-a045-a305cb79d5ae")
 			(effects
 				(font
@@ -186,7 +666,7 @@
 			)
 		)
 		(pin "SW_SENSE" output
-			(at 38.1 120.65 180)
+			(at 88.9 106.68 180)
 			(uuid "31d40073-d0b2-4b72-963d-2ffd87efc26e")
 			(effects
 				(font
@@ -204,7 +684,7 @@
 		)
 	)
 	(sheet
-		(at 38.1 130.81)
+		(at 88.9 116.84)
 		(size 25.4 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -220,7 +700,7 @@
 		)
 		(uuid "49e2602c-0e28-48e3-8de9-60f653caff1e")
 		(property "Sheetname" "SwitchSense 7"
-			(at 38.1 130.0984 0)
+			(at 88.9 116.1284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -231,7 +711,7 @@
 			)
 		)
 		(property "Sheetfile" "SwitchSense.kicad_sch"
-			(at 38.1 139.0146 0)
+			(at 88.9 125.0446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -242,7 +722,7 @@
 			)
 		)
 		(pin "FET_EN" input
-			(at 38.1 133.35 180)
+			(at 88.9 119.38 180)
 			(uuid "6fde7235-000c-4a9e-a1a0-013ff094f4f3")
 			(effects
 				(font
@@ -252,7 +732,7 @@
 			)
 		)
 		(pin "SW_SENSE" output
-			(at 38.1 135.89 180)
+			(at 88.9 121.92 180)
 			(uuid "1983f8d7-b5b3-4860-8936-99098628f1bc")
 			(effects
 				(font
@@ -270,7 +750,7 @@
 		)
 	)
 	(sheet
-		(at 38.1 176.53)
+		(at 88.9 162.56)
 		(size 25.4 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -286,7 +766,7 @@
 		)
 		(uuid "534a184d-974f-41ce-8992-ae1f57bd74dc")
 		(property "Sheetname" "SwitchSense 10"
-			(at 38.1 175.8184 0)
+			(at 88.9 161.8484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -297,7 +777,7 @@
 			)
 		)
 		(property "Sheetfile" "SwitchSense.kicad_sch"
-			(at 38.1 184.7346 0)
+			(at 88.9 170.7646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -308,7 +788,7 @@
 			)
 		)
 		(pin "FET_EN" input
-			(at 38.1 179.07 180)
+			(at 88.9 165.1 180)
 			(uuid "a2c7e593-c34a-4d1c-bb65-e4dab7fdaf8f")
 			(effects
 				(font
@@ -318,7 +798,7 @@
 			)
 		)
 		(pin "SW_SENSE" output
-			(at 38.1 181.61 180)
+			(at 88.9 167.64 180)
 			(uuid "ca94b4c1-5456-4f40-9b67-2520fe74907f")
 			(effects
 				(font
@@ -336,7 +816,7 @@
 		)
 	)
 	(sheet
-		(at 38.1 100.33)
+		(at 88.9 86.36)
 		(size 25.4 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -352,7 +832,7 @@
 		)
 		(uuid "862166ed-b51d-4620-ba31-eee105b454d0")
 		(property "Sheetname" "SwitchSense 5"
-			(at 38.1 99.6184 0)
+			(at 88.9 85.6484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -363,7 +843,7 @@
 			)
 		)
 		(property "Sheetfile" "SwitchSense.kicad_sch"
-			(at 38.1 108.5346 0)
+			(at 88.9 94.5646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -374,7 +854,7 @@
 			)
 		)
 		(pin "FET_EN" input
-			(at 38.1 102.87 180)
+			(at 88.9 88.9 180)
 			(uuid "282cdddd-8d68-4cc0-ab6d-207eba50f847")
 			(effects
 				(font
@@ -384,7 +864,7 @@
 			)
 		)
 		(pin "SW_SENSE" output
-			(at 38.1 105.41 180)
+			(at 88.9 91.44 180)
 			(uuid "0b96f2e6-c093-410d-a118-56a4a3bf1d5d")
 			(effects
 				(font
@@ -402,7 +882,7 @@
 		)
 	)
 	(sheet
-		(at 38.1 69.85)
+		(at 88.9 55.88)
 		(size 25.4 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -418,7 +898,7 @@
 		)
 		(uuid "9c5262a1-60c4-4352-a39a-e500a05938ea")
 		(property "Sheetname" "SwitchSense 3"
-			(at 38.1 69.1384 0)
+			(at 88.9 55.1684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -429,7 +909,7 @@
 			)
 		)
 		(property "Sheetfile" "SwitchSense.kicad_sch"
-			(at 38.1 78.0546 0)
+			(at 88.9 64.0846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -440,7 +920,7 @@
 			)
 		)
 		(pin "FET_EN" input
-			(at 38.1 72.39 180)
+			(at 88.9 58.42 180)
 			(uuid "47875b55-40f9-41e5-9a1e-6e5c7a1ffaf3")
 			(effects
 				(font
@@ -450,7 +930,7 @@
 			)
 		)
 		(pin "SW_SENSE" output
-			(at 38.1 74.93 180)
+			(at 88.9 60.96 180)
 			(uuid "ce166f90-4557-477a-a3e5-9e8411a7b159")
 			(effects
 				(font
@@ -468,7 +948,7 @@
 		)
 	)
 	(sheet
-		(at 38.1 39.37)
+		(at 88.9 25.4)
 		(size 25.4 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -484,7 +964,7 @@
 		)
 		(uuid "af8ad5bd-9f8e-4586-b290-343a1e36b522")
 		(property "Sheetname" "SwitchSense 1"
-			(at 38.1 38.6584 0)
+			(at 88.9 24.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -495,7 +975,7 @@
 			)
 		)
 		(property "Sheetfile" "SwitchSense.kicad_sch"
-			(at 38.1 47.5746 0)
+			(at 88.9 33.6046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -506,7 +986,7 @@
 			)
 		)
 		(pin "FET_EN" input
-			(at 38.1 41.91 180)
+			(at 88.9 27.94 180)
 			(uuid "292a0ba5-f1df-4677-8d37-ee214adf13ba")
 			(effects
 				(font
@@ -516,7 +996,7 @@
 			)
 		)
 		(pin "SW_SENSE" output
-			(at 38.1 44.45 180)
+			(at 88.9 30.48 180)
 			(uuid "e6cea263-d53d-4f63-8601-1d0e2610d365")
 			(effects
 				(font
@@ -528,13 +1008,13 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
-					(page "9")
+					(page "8")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 38.1 146.05)
+		(at 88.9 132.08)
 		(size 25.4 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -550,7 +1030,7 @@
 		)
 		(uuid "c97204d1-d3bf-45a2-8b98-28e8b0acd966")
 		(property "Sheetname" "SwitchSense 8"
-			(at 38.1 145.3384 0)
+			(at 88.9 131.3684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -561,7 +1041,7 @@
 			)
 		)
 		(property "Sheetfile" "SwitchSense.kicad_sch"
-			(at 38.1 154.2546 0)
+			(at 88.9 140.2846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -572,7 +1052,7 @@
 			)
 		)
 		(pin "FET_EN" input
-			(at 38.1 148.59 180)
+			(at 88.9 134.62 180)
 			(uuid "c6f3287f-f086-457a-8eda-8836f72b9df1")
 			(effects
 				(font
@@ -582,7 +1062,7 @@
 			)
 		)
 		(pin "SW_SENSE" output
-			(at 38.1 151.13 180)
+			(at 88.9 137.16 180)
 			(uuid "19636fac-fdad-484b-aeac-f25d254a9d29")
 			(effects
 				(font
@@ -600,7 +1080,7 @@
 		)
 	)
 	(sheet
-		(at 38.1 54.61)
+		(at 88.9 40.64)
 		(size 25.4 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -616,7 +1096,7 @@
 		)
 		(uuid "fcbb757c-2a69-4639-a8d3-b03126b0d3c2")
 		(property "Sheetname" "SwitchSense 2"
-			(at 38.1 53.8984 0)
+			(at 88.9 39.9284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -627,7 +1107,7 @@
 			)
 		)
 		(property "Sheetfile" "SwitchSense.kicad_sch"
-			(at 38.1 62.8146 0)
+			(at 88.9 48.8446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -638,7 +1118,7 @@
 			)
 		)
 		(pin "FET_EN" input
-			(at 38.1 57.15 180)
+			(at 88.9 43.18 180)
 			(uuid "a106982b-acb1-48ec-9d05-81beaf59a87c")
 			(effects
 				(font
@@ -648,7 +1128,7 @@
 			)
 		)
 		(pin "SW_SENSE" output
-			(at 38.1 59.69 180)
+			(at 88.9 45.72 180)
 			(uuid "96894f3f-1bc2-41ce-b3d8-338fd6bb9fe6")
 			(effects
 				(font
@@ -660,7 +1140,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
-					(page "8")
+					(page "9")
 				)
 			)
 		)

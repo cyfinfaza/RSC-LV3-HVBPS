@@ -430,7 +430,7 @@
       "endpoint_off_grid": "warning",
       "extra_units": "error",
       "field_name_whitespace": "warning",
-      "footprint_filter": "ignore",
+      "footprint_filter": "warning",
       "footprint_link_issues": "warning",
       "four_way_junction": "ignore",
       "ground_pin_not_ground": "warning",
@@ -451,13 +451,13 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
+      "power_pin_not_driven": "ignore",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
-      "single_global_label": "ignore",
+      "single_global_label": "error",
       "stacked_pin_name": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
@@ -641,6 +641,10 @@
       "Root"
     ],
     [
+      "f5995ec4-65d7-405d-8186-52c2665d3026",
+      "Inputs"
+    ],
+    [
       "4aa7ee16-37d7-4a92-b053-2235cd7f2d7b",
       "MCU"
     ],
@@ -661,16 +665,12 @@
       "CAN Channel"
     ],
     [
-      "f5995ec4-65d7-405d-8186-52c2665d3026",
-      "Inputs"
+      "af8ad5bd-9f8e-4586-b290-343a1e36b522",
+      "SwitchSense 1"
     ],
     [
       "fcbb757c-2a69-4639-a8d3-b03126b0d3c2",
       "SwitchSense 2"
-    ],
-    [
-      "af8ad5bd-9f8e-4586-b290-343a1e36b522",
-      "SwitchSense 1"
     ],
     [
       "9c5262a1-60c4-4352-a39a-e500a05938ea",

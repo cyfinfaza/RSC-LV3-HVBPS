@@ -2182,7 +2182,7 @@
 		(uuid "1420e634-caa1-47ea-afff-7f1a8d7df5dd")
 	)
 	(junction
-		(at 63.5 125.73)
+		(at 67.31 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "15615fe7-0379-4a0a-9ddc-20d8d9b801cf")
@@ -2206,7 +2206,7 @@
 		(uuid "255cbe30-d5d9-4e2d-8051-6241180ea270")
 	)
 	(junction
-		(at 50.8 133.35)
+		(at 80.01 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "267ea9ee-dc0c-409c-85df-9ced40474501")
@@ -2230,16 +2230,10 @@
 		(uuid "4bcf77d7-662d-49f6-85c7-a14f01dd7fcc")
 	)
 	(junction
-		(at 50.8 125.73)
+		(at 80.01 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4c0d6052-1dd0-4178-94b2-a2cbda5f1352")
-	)
-	(junction
-		(at 50.8 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "584bc9d6-63aa-4f71-9551-f4e01bbde778")
 	)
 	(junction
 		(at 181.61 132.08)
@@ -2254,7 +2248,7 @@
 		(uuid "5cdc7a66-37eb-41ec-b0cd-5913fbe53261")
 	)
 	(junction
-		(at 63.5 133.35)
+		(at 67.31 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "64277064-31b4-4fe6-b53d-034dfadf6c5f")
@@ -2314,7 +2308,7 @@
 		(uuid "a8e84212-2118-4e6f-b4b7-a77a5447202a")
 	)
 	(junction
-		(at 76.2 125.73)
+		(at 54.61 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b7120615-77bf-4940-924e-ef60ada53ef4")
@@ -2367,6 +2361,16 @@
 		(color 0 0 0 0)
 		(uuid "f813efcc-72b6-47f7-a3c1-253eb1bf94d2")
 	)
+	(junction
+		(at 80.01 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff0416c8-5d22-4985-ac65-0c7badd9bfbb")
+	)
+	(no_connect
+		(at 116.84 119.38)
+		(uuid "2669c4b0-a2f3-480b-ae76-bbca04ff1c0e")
+	)
 	(wire
 		(pts
 			(xy 227.33 55.88) (xy 227.33 57.15)
@@ -2399,7 +2403,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 114.3) (xy 50.8 118.11)
+			(xy 80.01 114.3) (xy 80.01 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2449,7 +2453,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 133.35) (xy 76.2 133.35)
+			(xy 67.31 133.35) (xy 54.61 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2469,7 +2473,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 133.35) (xy 63.5 133.35)
+			(xy 80.01 133.35) (xy 67.31 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2479,7 +2483,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 114.3) (xy 88.9 114.3)
+			(xy 62.23 114.3) (xy 80.01 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2539,16 +2543,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 114.3) (xy 72.39 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "34c3a3c5-61a2-4ef6-8229-ba0e0b730511")
-	)
-	(wire
-		(pts
 			(xy 186.69 49.53) (xy 186.69 58.42)
 		)
 		(stroke
@@ -2589,7 +2583,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 125.73) (xy 80.01 125.73)
+			(xy 54.61 125.73) (xy 50.8 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2659,7 +2653,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 125.73) (xy 63.5 125.73)
+			(xy 80.01 125.73) (xy 67.31 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2706,6 +2700,16 @@
 			(type default)
 		)
 		(uuid "70e5dd2c-5a88-4d92-a661-a4ca9cba3408")
+	)
+	(wire
+		(pts
+			(xy 80.01 114.3) (xy 88.9 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7192048c-2370-4bfe-85c9-a4715c08533c")
 	)
 	(wire
 		(pts
@@ -3059,7 +3063,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 114.3) (xy 50.8 114.3)
+			(xy 41.91 114.3) (xy 54.61 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3169,7 +3173,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 125.73) (xy 76.2 125.73)
+			(xy 67.31 125.73) (xy 54.61 125.73)
 		)
 		(stroke
 			(width 0)
@@ -3319,17 +3323,17 @@
 	)
 	(global_label "V_SENSE_12"
 		(shape output)
-		(at 80.01 125.73 0)
+		(at 50.8 125.73 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "7a44abd0-11f5-4307-a879-345e1b0ead4a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 94.4855 125.73 0)
+			(at 36.3245 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3337,7 +3341,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
@@ -3401,7 +3405,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06d85091-ae20-49a2-914d-8d2f8dce7fea")
-		(property "Reference" "C28"
+		(property "Reference" "C15"
 			(at 219.71 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3465,7 +3469,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "C28")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -3483,7 +3487,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b7a0f3b-2f42-4e8b-aaa7-3ac829ea2787")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR039"
 			(at 252.73 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -3543,85 +3547,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR055")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 50.8 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0de76925-0a47-4df2-a0b0-5111130db626")
-		(property "Reference" "#PWR031"
-			(at 50.8 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+12V"
-			(at 50.8 109.22 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 50.8 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 50.8 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 50.8 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "aff2d794-b7b8-409e-9a16-0b9e5348e9e2")
-		)
-		(instances
-			(project "RSC-LV3-SwitchSense"
-				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR031")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -3639,7 +3565,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e41360a-8b7f-4096-b98a-321380240857")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR028"
 			(at 189.23 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -3699,7 +3625,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR039")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -3787,7 +3713,8 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 50.8 129.54 0)
+		(at 80.01 129.54 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3797,8 +3724,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1151a322-8915-442d-a840-20d22d05b522")
-		(property "Reference" "R10"
-			(at 53.34 128.2699 0)
+		(property "Reference" "R13"
+			(at 77.47 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3809,7 +3736,7 @@
 			)
 		)
 		(property "Value" "5.1k"
-			(at 53.34 130.8099 0)
+			(at 77.47 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3820,7 +3747,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 49.022 129.54 90)
+			(at 81.788 129.54 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3831,7 +3758,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 129.54 0)
+			(at 80.01 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3842,7 +3769,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 50.8 129.54 0)
+			(at 80.01 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3861,7 +3788,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "R10")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -3879,7 +3806,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "170cd460-333d-4b59-b1dd-e76810b64cba")
-		(property "Reference" "J6"
+		(property "Reference" "J4"
 			(at 159.385 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3950,7 +3877,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "J6")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -3968,7 +3895,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d7e43c9-64ad-4d7a-9716-6e0f501b768a")
-		(property "Reference" "D14"
+		(property "Reference" "D7"
 			(at 202.2475 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4030,7 +3957,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "D14")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -4048,7 +3975,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f7ce3ec-fee3-46e3-bcf7-b6d06816ca30")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR030"
 			(at 191.77 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -4108,7 +4035,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR026")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -4116,7 +4043,8 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 63.5 129.54 0)
+		(at 67.31 129.54 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4125,8 +4053,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "24beb1c9-9a6e-4d21-8c0f-b4a54d6534d4")
-		(property "Reference" "C19"
-			(at 69.85 128.27 0)
+		(property "Reference" "C9"
+			(at 60.96 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4136,7 +4064,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 69.85 130.81 0)
+			(at 60.96 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4146,7 +4074,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 64.4652 133.35 0)
+			(at 66.3448 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4157,7 +4085,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 129.54 0)
+			(at 67.31 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4168,7 +4096,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 63.5 129.54 0)
+			(at 67.31 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4187,7 +4115,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "C19")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -4205,7 +4133,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26e619fe-cf8b-4885-9efd-f229d9ba8e49")
-		(property "Reference" "C22"
+		(property "Reference" "C14"
 			(at 198.12 123.1899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4269,7 +4197,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "C22")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -4287,7 +4215,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "274d1e85-4faf-45af-99b5-ac47454b1143")
-		(property "Reference" "R8"
+		(property "Reference" "R15"
 			(at 166.37 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4351,7 +4279,85 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "R8")
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 80.01 114.3 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28e529b8-9dd2-4918-bf9b-fb3908add1fb")
+		(property "Reference" "#PWR022"
+			(at 80.01 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 80.01 109.22 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 80.01 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 80.01 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0c615fb2-f804-4cc5-872d-7c8b164dbcdd")
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -4369,7 +4375,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b188db1-cb66-4e98-ad3d-62d72d8a53e1")
-		(property "Reference" "C29"
+		(property "Reference" "C17"
 			(at 266.7 121.9199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4433,7 +4439,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "C29")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -4451,7 +4457,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b3242c8-e656-4c07-bcff-249f537865a0")
-		(property "Reference" "C25"
+		(property "Reference" "C10"
 			(at 92.71 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4515,7 +4521,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "C25")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -4533,7 +4539,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4166cc51-7f8d-44b1-a3a3-3fc05e6e1805")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR036"
 			(at 228.6 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -4593,7 +4599,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR044")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -4611,7 +4617,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42bc1978-90d7-47fe-a7d2-212772e01e91")
-		(property "Reference" "R24"
+		(property "Reference" "R20"
 			(at 238.76 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4673,7 +4679,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "R24")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -4782,7 +4788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50c01d69-c0d1-443d-b3f0-0573f2af0208")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR040"
 			(at 262.89 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -4842,7 +4848,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR043")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -4850,7 +4856,8 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 50.8 133.35 0)
+		(at 80.01 133.35 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4860,8 +4867,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50f3e504-d9e3-43ad-8980-880ddd25856c")
-		(property "Reference" "#PWR032"
-			(at 50.8 139.7 0)
+		(property "Reference" "#PWR023"
+			(at 80.01 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4872,7 +4879,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 50.8 138.43 0)
+			(at 80.01 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4882,7 +4889,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 133.35 0)
+			(at 80.01 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4893,7 +4900,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 133.35 0)
+			(at 80.01 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4904,7 +4911,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 50.8 133.35 0)
+			(at 80.01 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4920,7 +4927,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR032")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -4938,7 +4945,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59c903b7-8cad-41aa-8cd4-88206736fc33")
-		(property "Reference" "R22"
+		(property "Reference" "R18"
 			(at 238.76 34.29 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5000,7 +5007,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "R22")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -5018,7 +5025,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ad2d256-bc18-45af-8f65-8b0927f79e11")
-		(property "Reference" "C4"
+		(property "Reference" "C12"
 			(at 143.51 106.68 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5080,7 +5087,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "C4")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -5098,7 +5105,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c14f414-d7d3-418f-b865-cc87414be396")
-		(property "Reference" "D15"
+		(property "Reference" "D8"
 			(at 202.2475 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5160,7 +5167,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "D15")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -5178,7 +5185,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72905ce1-6e60-4131-a12d-291f97311086")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR037"
 			(at 252.73 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -5238,7 +5245,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR050")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -5256,7 +5263,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74690aa4-492b-4049-ba50-6fbc48181920")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR024"
 			(at 127 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -5316,7 +5323,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR027")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -5414,7 +5421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80b4c3b3-8631-4cc0-bcdc-708fdc0d614d")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR035"
 			(at 227.33 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -5474,7 +5481,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR054")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -5492,7 +5499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8470561b-63e0-497b-a30a-4bd717a531df")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR033"
 			(at 227.33 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -5552,7 +5559,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR051")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -5570,7 +5577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85a718f4-a9f0-4c64-a1d5-1060f033c9d4")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR027"
 			(at 186.69 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -5630,7 +5637,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR025")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -5648,7 +5655,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8af8d68c-d5d4-4445-aa3d-3f015e72eba5")
-		(property "Reference" "C24"
+		(property "Reference" "C11"
 			(at 105.41 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5712,7 +5719,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "C24")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -5730,7 +5737,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b2a9318-037a-4772-956a-4f8cbb94a56c")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR025"
 			(at 172.72 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5790,7 +5797,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR045")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -5808,7 +5815,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c50707f-e8cb-4c67-b321-0f14fbb3a972")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR029"
 			(at 189.23 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -5868,7 +5875,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR041")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -5886,7 +5893,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8fafa39d-f61a-4525-89fe-dfa2bee33c71")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR034"
 			(at 227.33 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -5946,7 +5953,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR052")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -5963,7 +5970,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "98520750-9be2-4afd-86c2-d23149cee9e8")
-		(property "Reference" "C27"
+		(property "Reference" "C16"
 			(at 228.6 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6025,7 +6032,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "C27")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -6043,7 +6050,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bf9dbb1-3595-4c37-9146-9ed042578c6b")
-		(property "Reference" "R23"
+		(property "Reference" "R19"
 			(at 238.76 50.8 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6105,7 +6112,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "R23")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -6123,7 +6130,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ebd5386-c167-496e-9c6f-9b4b8e50a028")
-		(property "Reference" "U5"
+		(property "Reference" "U3"
 			(at 243.84 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6256,7 +6263,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "U5")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -6274,7 +6281,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a194e349-79c1-446a-a032-58ca2e260c7e")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR021"
 			(at 25.4 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -6334,7 +6341,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR030")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -6352,7 +6359,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2fc1d4c-0fe1-4309-bc62-53cab2c7289d")
-		(property "Reference" "J5"
+		(property "Reference" "J3"
 			(at 136.525 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6423,7 +6430,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "J5")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -6441,7 +6448,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a512a393-e92f-4546-a738-00359b6e08c4")
-		(property "Reference" "D5"
+		(property "Reference" "D9"
 			(at 237.49 140.9699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6505,7 +6512,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "D5")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -6523,7 +6530,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab94709c-dc50-4be0-99b8-73266dd3548e")
-		(property "Reference" "R13"
+		(property "Reference" "R16"
 			(at 212.09 132.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6587,7 +6594,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "R13")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -6595,7 +6602,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Schottky")
-		(at 76.2 114.3 180)
+		(at 58.42 114.3 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6605,8 +6612,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bba5cf54-8912-4faf-ae2b-7f51169bf6b8")
-		(property "Reference" "D7"
-			(at 76.5175 107.95 0)
+		(property "Reference" "D5"
+			(at 58.7375 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6616,7 +6623,7 @@
 			)
 		)
 		(property "Value" "D_Schottky"
-			(at 76.5175 110.49 0)
+			(at 58.7375 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6626,7 +6633,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 76.2 114.3 0)
+			(at 58.42 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6637,7 +6644,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 114.3 0)
+			(at 58.42 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6648,7 +6655,7 @@
 			)
 		)
 		(property "Description" "Schottky diode"
-			(at 76.2 114.3 0)
+			(at 58.42 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6667,7 +6674,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "D7")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -6685,7 +6692,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2f17942-ae32-4991-9f3d-49e7784ea41c")
-		(property "Reference" "R7"
+		(property "Reference" "R14"
 			(at 166.37 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6749,7 +6756,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "R7")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -6767,7 +6774,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3238cbf-fa06-482d-91e2-9a64e4d74854")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR026"
 			(at 175.26 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6827,7 +6834,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR024")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -6936,7 +6943,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d28dad14-80ad-4dac-a41a-1bda6adaa2a1")
-		(property "Reference" "R14"
+		(property "Reference" "R17"
 			(at 212.09 140.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7000,7 +7007,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "R14")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -7109,7 +7116,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d72319a7-d860-4273-9637-503f12c991ed")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR031"
 			(at 209.55 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -7169,7 +7176,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR040")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -7187,7 +7194,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3c8c8ff-99ee-478e-93ad-9b9f99bd0f85")
-		(property "Reference" "C21"
+		(property "Reference" "C13"
 			(at 185.42 123.1899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7251,7 +7258,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "C21")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -7269,7 +7276,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eae5c19f-669c-477f-86c7-5edf51c196c7")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR038"
 			(at 252.73 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -7329,7 +7336,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR053")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -7347,7 +7354,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec810842-d7ae-40a4-af12-70aada0b7ae8")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR032"
 			(at 215.9 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -7407,7 +7414,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "#PWR042")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -7415,7 +7422,8 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 50.8 121.92 0)
+		(at 80.01 121.92 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7425,8 +7433,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee35e84f-720f-482b-a8b8-cb5769bbe092")
-		(property "Reference" "R9"
-			(at 53.34 120.6499 0)
+		(property "Reference" "R12"
+			(at 77.47 120.6499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7437,7 +7445,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 53.34 123.1899 0)
+			(at 77.47 123.1899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7448,7 +7456,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 49.022 121.92 90)
+			(at 81.788 121.92 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7459,7 +7467,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 121.92 0)
+			(at 80.01 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7470,7 +7478,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 50.8 121.92 0)
+			(at 80.01 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7489,7 +7497,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "R9")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -7497,7 +7505,8 @@
 	)
 	(symbol
 		(lib_id "Device:D_Zener")
-		(at 76.2 129.54 270)
+		(at 54.61 129.54 90)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7507,8 +7516,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eec4d4da-2840-4fcc-b1e7-78d97b404e02")
-		(property "Reference" "D2"
-			(at 78.74 128.2699 90)
+		(property "Reference" "D4"
+			(at 52.07 128.2699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7519,7 +7528,7 @@
 			)
 		)
 		(property "Value" "D_Zener"
-			(at 78.74 130.8099 90)
+			(at 52.07 130.8099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7530,7 +7539,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
-			(at 76.2 129.54 0)
+			(at 54.61 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7541,7 +7550,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 129.54 0)
+			(at 54.61 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7552,7 +7561,7 @@
 			)
 		)
 		(property "Description" "Zener diode"
-			(at 76.2 129.54 0)
+			(at 54.61 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7571,7 +7580,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "D2")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -7589,7 +7598,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4cd4654-e15c-4740-acff-3d1ae92e9915")
-		(property "Reference" "D13"
+		(property "Reference" "D6"
 			(at 202.2475 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7651,7 +7660,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "D13")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -7669,7 +7678,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f59b8641-5768-4ac8-911c-475f1ddb85f2")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 127 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7744,7 +7753,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(reference "U3")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -7831,7 +7840,7 @@
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
-					(page "6")
+					(page "7")
 				)
 			)
 		)

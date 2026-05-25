@@ -1,0 +1,668 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "939a4355-c5e2-4524-9a6c-77ba21cefdd4")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 38.1 85.09)
+		(size 25.4 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "19ff984b-2558-4eca-abbf-d6f3f8114e5c")
+		(property "Sheetname" "SwitchSense 4"
+			(at 38.1 84.3784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SwitchSense.kicad_sch"
+			(at 38.1 93.2946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FET_EN" input
+			(at 38.1 87.63 180)
+			(uuid "b80563ed-8587-453d-af7d-48187afe30ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_SENSE" output
+			(at 38.1 90.17 180)
+			(uuid "9019bf70-504d-4d97-882e-c7b8322a5651")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 161.29)
+		(size 25.4 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "284bac0b-8034-4fc0-8bac-ddd1b681bd4f")
+		(property "Sheetname" "SwitchSense 9"
+			(at 38.1 160.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SwitchSense.kicad_sch"
+			(at 38.1 169.4946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FET_EN" input
+			(at 38.1 163.83 180)
+			(uuid "d706ae19-a55e-4af4-b238-8e68984992f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_SENSE" output
+			(at 38.1 166.37 180)
+			(uuid "ad89c314-eb1f-49e3-9739-19943ae65bed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 115.57)
+		(size 25.4 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "28e395e2-6c16-4ec7-acf6-7618cc9764d3")
+		(property "Sheetname" "SwitchSense 6"
+			(at 38.1 114.8584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SwitchSense.kicad_sch"
+			(at 38.1 123.7746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FET_EN" input
+			(at 38.1 118.11 180)
+			(uuid "5fedda85-261c-46bd-a045-a305cb79d5ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_SENSE" output
+			(at 38.1 120.65 180)
+			(uuid "31d40073-d0b2-4b72-963d-2ffd87efc26e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 130.81)
+		(size 25.4 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "49e2602c-0e28-48e3-8de9-60f653caff1e")
+		(property "Sheetname" "SwitchSense 7"
+			(at 38.1 130.0984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SwitchSense.kicad_sch"
+			(at 38.1 139.0146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FET_EN" input
+			(at 38.1 133.35 180)
+			(uuid "6fde7235-000c-4a9e-a1a0-013ff094f4f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_SENSE" output
+			(at 38.1 135.89 180)
+			(uuid "1983f8d7-b5b3-4860-8936-99098628f1bc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 176.53)
+		(size 25.4 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "534a184d-974f-41ce-8992-ae1f57bd74dc")
+		(property "Sheetname" "SwitchSense 10"
+			(at 38.1 175.8184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SwitchSense.kicad_sch"
+			(at 38.1 184.7346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FET_EN" input
+			(at 38.1 179.07 180)
+			(uuid "a2c7e593-c34a-4d1c-bb65-e4dab7fdaf8f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_SENSE" output
+			(at 38.1 181.61 180)
+			(uuid "ca94b4c1-5456-4f40-9b67-2520fe74907f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 100.33)
+		(size 25.4 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "862166ed-b51d-4620-ba31-eee105b454d0")
+		(property "Sheetname" "SwitchSense 5"
+			(at 38.1 99.6184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SwitchSense.kicad_sch"
+			(at 38.1 108.5346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FET_EN" input
+			(at 38.1 102.87 180)
+			(uuid "282cdddd-8d68-4cc0-ab6d-207eba50f847")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_SENSE" output
+			(at 38.1 105.41 180)
+			(uuid "0b96f2e6-c093-410d-a118-56a4a3bf1d5d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 69.85)
+		(size 25.4 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9c5262a1-60c4-4352-a39a-e500a05938ea")
+		(property "Sheetname" "SwitchSense 3"
+			(at 38.1 69.1384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SwitchSense.kicad_sch"
+			(at 38.1 78.0546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FET_EN" input
+			(at 38.1 72.39 180)
+			(uuid "47875b55-40f9-41e5-9a1e-6e5c7a1ffaf3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_SENSE" output
+			(at 38.1 74.93 180)
+			(uuid "ce166f90-4557-477a-a3e5-9e8411a7b159")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 39.37)
+		(size 25.4 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "af8ad5bd-9f8e-4586-b290-343a1e36b522")
+		(property "Sheetname" "SwitchSense 1"
+			(at 38.1 38.6584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SwitchSense.kicad_sch"
+			(at 38.1 47.5746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FET_EN" input
+			(at 38.1 41.91 180)
+			(uuid "292a0ba5-f1df-4677-8d37-ee214adf13ba")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_SENSE" output
+			(at 38.1 44.45 180)
+			(uuid "e6cea263-d53d-4f63-8601-1d0e2610d365")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 146.05)
+		(size 25.4 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c97204d1-d3bf-45a2-8b98-28e8b0acd966")
+		(property "Sheetname" "SwitchSense 8"
+			(at 38.1 145.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SwitchSense.kicad_sch"
+			(at 38.1 154.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FET_EN" input
+			(at 38.1 148.59 180)
+			(uuid "c6f3287f-f086-457a-8eda-8836f72b9df1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_SENSE" output
+			(at 38.1 151.13 180)
+			(uuid "19636fac-fdad-484b-aeac-f25d254a9d29")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 54.61)
+		(size 25.4 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fcbb757c-2a69-4639-a8d3-b03126b0d3c2")
+		(property "Sheetname" "SwitchSense 2"
+			(at 38.1 53.8984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SwitchSense.kicad_sch"
+			(at 38.1 62.8146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FET_EN" input
+			(at 38.1 57.15 180)
+			(uuid "a106982b-acb1-48ec-9d05-81beaf59a87c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SW_SENSE" output
+			(at 38.1 59.69 180)
+			(uuid "96894f3f-1bc2-41ce-b3d8-338fd6bb9fe6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
+					(page "8")
+				)
+			)
+		)
+	)
+)

@@ -4204,22 +4204,10 @@
 		(uuid "316e9187-2d6f-430b-97a2-8bb5687785df")
 	)
 	(junction
-		(at 247.65 149.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "34eabde2-0990-4579-a90f-3c9b5d452694")
-	)
-	(junction
 		(at 264.16 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3f5e6149-6a4d-4245-b252-47b1f8b40603")
-	)
-	(junction
-		(at 247.65 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4056d9f6-25e7-4e91-9208-bafb6d7e9dbc")
 	)
 	(junction
 		(at 236.22 142.24)
@@ -7160,88 +7148,6 @@
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b"
 					(reference "L1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 247.65 146.05 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "437d53b0-28f5-46ad-972e-0a3816054432")
-		(property "Reference" "C8"
-			(at 251.46 144.7799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 251.46 147.3199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 248.6152 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 247.65 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a18543a2-96d5-4c32-91d5-9cbe10ade27b")
-		)
-		(pin "2"
-			(uuid "52af31d7-3c48-46ad-8ccc-f59660028ed6")
-		)
-		(instances
-			(project "RSC-LV3-SwitchSense"
-				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b"
-					(reference "C8")
 					(unit 1)
 				)
 			)

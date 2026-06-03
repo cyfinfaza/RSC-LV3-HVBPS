@@ -1403,15 +1403,19 @@
 			)
 		)
 		(pin "2"
-			(uuid "c0c2c336-94b6-4fb3-976b-22721fe3b056")
+			(uuid "fd46da9a-c8f6-4779-a96e-9958e749bdc0")
 		)
 		(pin "1"
-			(uuid "6e28b5ce-4bcd-4c4e-8a52-d279a5720023")
+			(uuid "11921f03-1b74-412f-b83e-b72e5806cbe4")
 		)
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "C19")
+					(unit 1)
+				)
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/ef23ee7b-7f39-46c1-8aad-e04e597a3661"
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -1486,33 +1490,37 @@
 			)
 		)
 		(pin "4"
-			(uuid "00d595dc-9e0b-4928-b322-03b99ea5a8dd")
+			(uuid "d643b5a9-c9c9-4c91-b778-35a10f1041b5")
 		)
 		(pin "2"
-			(uuid "ee74a1ea-6e89-412d-bec4-80f6ab939827")
+			(uuid "0dfbde4d-a0dc-4c48-991d-3a704fd01914")
 		)
 		(pin "5"
-			(uuid "40cf4cb1-6dd7-49b7-9223-192c764b32e8")
+			(uuid "1ee74273-3fe3-4f4f-9dc2-6d84c3f748e4")
 		)
 		(pin "3"
-			(uuid "2ed68dbd-45aa-47f0-8439-b56c744432ef")
+			(uuid "6e3e8129-ce53-4c90-bc1d-f8eb65d2ecc6")
 		)
 		(pin "7"
-			(uuid "29a40515-9e83-4c59-8190-2e45ff66daa8")
+			(uuid "c89a4c2b-6ed9-4754-8011-e8a6df03d119")
 		)
 		(pin "6"
-			(uuid "6653a15b-c69a-4f04-9139-53ff29538e50")
+			(uuid "576ce9bd-a17d-4b29-9566-5816e2b66bef")
 		)
 		(pin "8"
-			(uuid "c11b9477-4972-4f14-a6e4-f296f115992d")
+			(uuid "5caf291d-9471-4d07-b21b-da6c57718db6")
 		)
 		(pin "1"
-			(uuid "7de1e345-764b-4f22-a122-38dc5bfbbdc6")
+			(uuid "fe986eb2-5055-4e38-a46c-af332aea6df2")
 		)
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "U4")
+					(unit 1)
+				)
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/ef23ee7b-7f39-46c1-8aad-e04e597a3661"
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -1584,15 +1592,19 @@
 			)
 		)
 		(pin "2"
-			(uuid "c5541809-f228-40d5-9398-98a01685c04e")
+			(uuid "00cdb37f-4b0f-4a05-8fd6-17712cf6c089")
 		)
 		(pin "1"
-			(uuid "0ab8678d-85cc-4006-a5ed-ed3e9cd18a3e")
+			(uuid "85a3857a-d5b8-4634-a1cf-54fab49b9016")
 		)
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "R21")
+					(unit 1)
+				)
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/ef23ee7b-7f39-46c1-8aad-e04e597a3661"
+					(reference "R62")
 					(unit 1)
 				)
 			)
@@ -1665,12 +1677,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "60f7d886-09cb-422c-beca-e49a305746bc")
+			(uuid "147c7e39-feac-4194-b970-756c14f63e0b")
 		)
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "#PWR043")
+					(unit 1)
+				)
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/ef23ee7b-7f39-46c1-8aad-e04e597a3661"
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -1744,15 +1760,19 @@
 			)
 		)
 		(pin "2"
-			(uuid "e416a6de-7f84-4ede-b0b0-31e6ef069193")
+			(uuid "03d77499-0d15-416c-a873-9a164e17f200")
 		)
 		(pin "1"
-			(uuid "f9d1ca72-c295-4693-af57-f0525152872f")
+			(uuid "fa1b21cc-0301-4609-9f67-ee3c5836b21e")
 		)
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "C20")
+					(unit 1)
+				)
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/ef23ee7b-7f39-46c1-8aad-e04e597a3661"
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -1825,12 +1845,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "b38ce93e-5e4f-41b7-af88-4194d593ec18")
+			(uuid "c8b7118e-7488-4ef3-8280-338e2dfd5069")
 		)
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "#PWR041")
+					(unit 1)
+				)
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/ef23ee7b-7f39-46c1-8aad-e04e597a3661"
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -1904,15 +1928,19 @@
 			)
 		)
 		(pin "2"
-			(uuid "aa5472e6-6a86-450e-9087-fc95d492d5bf")
+			(uuid "f49ba261-7e29-4afb-9ff9-7339550f9a7a")
 		)
 		(pin "1"
-			(uuid "c0ebac72-b5a5-414f-8734-457a583637f3")
+			(uuid "9d8d21f6-e957-4e49-9d59-a6f855abba61")
 		)
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "C18")
+					(unit 1)
+				)
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/ef23ee7b-7f39-46c1-8aad-e04e597a3661"
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -2048,24 +2076,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "1616487d-f2a2-4294-b1b7-9326718c23c7")
+			(uuid "cb6a6e5b-0ce1-40a6-9825-230696543f0f")
 		)
 		(pin "4"
-			(uuid "3f3440f4-9a0b-4197-8e7c-a019d9f2ff55")
+			(uuid "3d3d998c-c331-4cde-893c-2c09a6616f79")
 		)
 		(pin "5"
-			(uuid "a0a48323-6d94-428d-b2e6-975cac915732")
+			(uuid "536198e4-08c0-4ac8-828d-c45d6eda045c")
 		)
 		(pin "1"
-			(uuid "23eacdf3-30c8-4183-ad30-96e1f09d632b")
+			(uuid "0aa6fdfc-8562-42e0-81b0-db2827902ce2")
 		)
 		(pin "3"
-			(uuid "adfaa805-ad29-4260-95a3-814b033c6649")
+			(uuid "d0f30e2c-dde6-4b18-a009-f5995807785e")
 		)
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "S4")
+					(unit 1)
+				)
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/ef23ee7b-7f39-46c1-8aad-e04e597a3661"
+					(reference "S5")
 					(unit 1)
 				)
 			)
@@ -2138,12 +2170,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "f2792e10-659c-4605-ad5e-ba74687d1455")
+			(uuid "99d9145d-d4f6-4396-884a-d8cb0faf4d54")
 		)
 		(instances
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "#PWR042")
+					(unit 1)
+				)
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/ef23ee7b-7f39-46c1-8aad-e04e597a3661"
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)

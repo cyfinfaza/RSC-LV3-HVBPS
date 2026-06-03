@@ -648,7 +648,7 @@
         "uuid": "ea09e839-df61-4c3f-abdc-aa7ae2f772fe"
       }
     ],
-    "used_designators": "",
+    "used_designators": "BT1,J5,J16,S5,R62,C8,C31-35,#PWR74-78,U5,Y2",
     "variants": []
   },
   "sheets": [
@@ -678,7 +678,7 @@
     ],
     [
       "4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff",
-      "CAN Channel"
+      "CAN Channel (Primary)"
     ],
     [
       "af8ad5bd-9f8e-4586-b290-343a1e36b522",
@@ -719,6 +719,10 @@
     [
       "534a184d-974f-41ce-8992-ae1f57bd74dc",
       "SwitchSense 10"
+    ],
+    [
+      "ef23ee7b-7f39-46c1-8aad-e04e597a3661",
+      "CAN Channel (Aux)"
     ]
   ],
   "text_variables": {},

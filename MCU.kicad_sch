@@ -4761,20 +4761,12 @@
 		(uuid "830ff586-adfb-4519-aebd-7d3add2e0fe1")
 	)
 	(no_connect
-		(at 195.58 69.85)
-		(uuid "83ddfe34-13e3-4b39-9b3c-97796568b225")
-	)
-	(no_connect
 		(at 73.66 142.24)
 		(uuid "8e95fceb-f233-4eba-bf81-1e1222a1ffcb")
 	)
 	(no_connect
 		(at 73.66 139.7)
 		(uuid "90e73d2a-5353-4e39-af28-a8b3b376c62b")
-	)
-	(no_connect
-		(at 251.46 115.57)
-		(uuid "9b49e6cd-97d3-4cf5-a228-3773da5d4354")
 	)
 	(no_connect
 		(at 195.58 59.69)
@@ -5796,7 +5788,7 @@
 			)
 		)
 	)
-	(global_label "SWD_CLK"
+	(global_label "SWD_IO"
 		(shape bidirectional)
 		(at 251.46 72.39 0)
 		(fields_autoplaced yes)
@@ -5808,7 +5800,7 @@
 		)
 		(uuid "284687a1-e110-48ca-8b45-71c66f5a872d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 264.0231 72.39 0)
+			(at 262.3903 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6348,6 +6340,30 @@
 			)
 		)
 	)
+	(global_label "FDCAN2_TX"
+		(shape output)
+		(at 251.46 115.57 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "93e887fe-4cd0-4a44-813f-6fdda19c553e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 264.8471 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "STAT1_G"
 		(shape input)
 		(at 132.08 111.76 180)
@@ -6542,7 +6558,7 @@
 	)
 	(global_label "FDCAN1_RX"
 		(shape input)
-		(at 195.58 57.15 180)
+		(at 195.58 54.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6552,7 +6568,7 @@
 		)
 		(uuid "b5650d1d-444b-48db-8c12-d00dfd9c53c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 181.8905 57.15 0)
+			(at 181.8905 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6566,17 +6582,17 @@
 	)
 	(global_label "OUT_2"
 		(shape output)
-		(at 251.46 95.25 0)
+		(at 195.58 69.85 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "ba81b689-f544-48b7-9899-5ae1aa772473")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 260.2509 95.25 0)
+			(at 186.7891 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6584,7 +6600,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
@@ -6625,6 +6641,30 @@
 		(uuid "c048f48a-ed66-407d-a4e4-fcddf182605a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 258.5576 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "FDCAN2_RX"
+		(shape input)
+		(at 251.46 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c1907040-07f6-46bb-95dc-0b91cac3a69a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 265.1495 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6732,7 +6772,7 @@
 			)
 		)
 	)
-	(global_label "SWD_IO"
+	(global_label "SWD_CLK"
 		(shape bidirectional)
 		(at 267.97 77.47 0)
 		(fields_autoplaced yes)
@@ -6744,7 +6784,7 @@
 		)
 		(uuid "cd722d11-2f31-4d57-8205-02d5cbe46e7e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 278.9003 77.47 0)
+			(at 280.5331 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6782,7 +6822,7 @@
 	)
 	(global_label "FDCAN1_TX"
 		(shape output)
-		(at 195.58 54.61 180)
+		(at 195.58 57.15 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6792,7 +6832,7 @@
 		)
 		(uuid "d75dbf6e-9795-4aeb-a2eb-b0d1b940998b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 182.1929 54.61 0)
+			(at 182.1929 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10850,7 +10890,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery_Cell"
+		(property "Value" "Molex 53047-0210"
 			(at 200.66 22.2884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10861,7 +10901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical"
 			(at 204.47 21.336 90)
 			(hide yes)
 			(show_name no)

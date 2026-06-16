@@ -530,10 +530,14 @@
   },
   "pcbnew": {
     "last_paths": {
+      "gencad": "",
       "idf": "",
       "netlist": "",
       "plot": "",
+      "pos_files": "",
       "specctra_dsn": "RSC-LV3-SwitchSense.dsn",
+      "step": "",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -656,7 +660,7 @@
         "uuid": "ea09e839-df61-4c3f-abdc-aa7ae2f772fe"
       }
     ],
-    "used_designators": "D33-42",
+    "used_designators": "L1-2,BT1,#PWR1-78,D1-42,C1-35,F1,J1-16,Q1-10,R1-62,S1-5,U1-5,Y1-2",
     "variants": []
   },
   "sheets": [

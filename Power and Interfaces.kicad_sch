@@ -622,6 +622,183 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:C_Polarized"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Polarized"
+				(at 0.635 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Polarized capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "CP_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "C_Polarized_0_1"
+				(rectangle
+					(start -2.286 0.508)
+					(end 2.286 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 2.286) (xy -0.762 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.794) (xy -1.27 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.286 -0.508)
+					(end -2.286 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "C_Polarized_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:D_Schottky"
 			(pin_numbers
 				(hide yes)
@@ -2370,6 +2547,12 @@
 		(uuid "267ea9ee-dc0c-409c-85df-9ced40474501")
 	)
 	(junction
+		(at 71.12 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "27c01e74-61cf-4aa4-ab70-a35391e07827")
+	)
+	(junction
 		(at 226.06 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2478,6 +2661,12 @@
 		(uuid "a8e84212-2118-4e6f-b4b7-a77a5447202a")
 	)
 	(junction
+		(at 71.12 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3e16514-986d-41fd-a202-28233660c60a")
+	)
+	(junction
 		(at 54.61 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2518,6 +2707,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "da14448f-53dc-49cc-9d7f-f48644981085")
+	)
+	(junction
+		(at 63.5 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eed6275f-9c51-4f41-b0e3-ce7c27352115")
 	)
 	(junction
 		(at 172.72 116.84)
@@ -2643,6 +2838,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 104.14) (xy 85.09 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18a031f4-7f40-45c6-b26b-09ef7e1a1d2e")
+	)
+	(wire
+		(pts
 			(xy 80.01 133.35) (xy 67.31 133.35)
 		)
 		(stroke
@@ -2653,7 +2858,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 114.3) (xy 80.01 114.3)
+			(xy 58.42 114.3) (xy 63.5 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3033,6 +3238,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 96.52) (xy 71.12 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a6f4d0c-4821-4d7e-b3f3-a0931dddd86d")
+	)
+	(wire
+		(pts
 			(xy 209.55 116.84) (xy 215.9 116.84)
 		)
 		(stroke
@@ -3143,6 +3358,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 114.3) (xy 80.01 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f010f93-e06e-41f9-adc6-27effc6cafeb")
+	)
+	(wire
+		(pts
 			(xy 226.06 116.84) (xy 231.14 116.84)
 		)
 		(stroke
@@ -3213,6 +3438,26 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 93.98) (xy 63.5 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b068035e-fe57-4c71-8622-1e2c8c49b37f")
+	)
+	(wire
+		(pts
+			(xy 85.09 93.98) (xy 71.12 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3ca83ad-bfc8-4eb8-99fd-af0b3e13a221")
+	)
+	(wire
+		(pts
 			(xy 140.97 49.53) (xy 163.83 49.53)
 		)
 		(stroke
@@ -3273,7 +3518,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 114.3) (xy 54.61 114.3)
+			(xy 41.91 114.3) (xy 50.8 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3363,6 +3608,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 93.98) (xy 63.5 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e931da32-f114-4f9f-ad67-3fc2bfcb38b4")
+	)
+	(wire
+		(pts
 			(xy 139.7 80.01) (xy 144.78 80.01)
 		)
 		(stroke
@@ -3420,6 +3675,16 @@
 			(type default)
 		)
 		(uuid "f7df9337-5f31-4f78-9242-47105bbbb56e")
+	)
+	(wire
+		(pts
+			(xy 85.09 96.52) (xy 85.09 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f92f32a0-f62f-44f8-acdc-bfc0832a9750")
 	)
 	(wire
 		(pts
@@ -4490,6 +4755,88 @@
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
 					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 71.12 100.33 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2692f5da-7cb3-48d8-af05-a8701a68b7f6")
+		(property "Reference" "C36"
+			(at 74.93 98.1709 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100u"
+			(at 74.93 100.7109 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
+			(at 72.0852 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 71.12 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0b52618d-22b9-4d41-b14b-772a765ab39a")
+		)
+		(pin "1"
+			(uuid "f5f52297-3bec-448b-8f5c-c7e0e09a903d")
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -7139,8 +7486,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Schottky")
-		(at 58.42 114.3 180)
+		(lib_id "Device:C_Polarized")
+		(at 85.09 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7149,29 +7496,31 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "bba5cf54-8912-4faf-ae2b-7f51169bf6b8")
-		(property "Reference" "D5"
-			(at 58.7375 107.95 0)
+		(uuid "b3efbaf1-5eda-472f-9b02-58aef3f66444")
+		(property "Reference" "C37"
+			(at 88.9 98.1709 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "D_Schottky"
-			(at 58.7375 110.49 0)
+		(property "Value" "100u"
+			(at 88.9 100.7109 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 58.42 114.3 0)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
+			(at 86.0552 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7182,7 +7531,87 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 114.3 0)
+			(at 85.09 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 85.09 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3deef11d-13dd-42d5-b6eb-a59c89a1020c")
+		)
+		(pin "1"
+			(uuid "73f77afb-4022-4dbe-8080-d042810db35f")
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
+					(reference "C37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Schottky")
+		(at 54.61 114.3 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bba5cf54-8912-4faf-ae2b-7f51169bf6b8")
+		(property "Reference" "D5"
+			(at 54.9275 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D_Schottky"
+			(at 54.9275 110.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMA"
+			(at 54.61 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7193,7 +7622,7 @@
 			)
 		)
 		(property "Description" "Schottky diode"
-			(at 58.42 114.3 0)
+			(at 54.61 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8292,6 +8721,85 @@
 			(project "RSC-LV3-SwitchSense"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 71.12 104.14 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f5d08e23-466b-4ceb-96bf-0337e1c04fe2")
+		(property "Reference" "#PWR079"
+			(at 71.12 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 71.12 109.22 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 71.12 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b4c4e608-ae90-4d28-9b42-4c2b71715a21")
+		)
+		(instances
+			(project "RSC-LV3-SwitchSense"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5"
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)

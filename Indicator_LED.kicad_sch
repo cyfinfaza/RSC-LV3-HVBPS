@@ -1005,7 +1005,7 @@
 			(uuid "fea94016-32ff-4ceb-a0cd-3632b71bbc93")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/0ba67f90-927b-4a9b-b1dc-32a9d85f8a8c"
 					(reference "R7")
 					(unit 1)
@@ -1090,7 +1090,7 @@
 			(uuid "6042ac3b-efb3-4fce-b735-8654fd21f8cd")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/0ba67f90-927b-4a9b-b1dc-32a9d85f8a8c"
 					(reference "R6")
 					(unit 1)
@@ -1175,7 +1175,7 @@
 			(uuid "f2f5205d-9e1e-4d07-a504-e94e4fb0f21c")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/0ba67f90-927b-4a9b-b1dc-32a9d85f8a8c"
 					(reference "R8")
 					(unit 1)
@@ -1272,7 +1272,7 @@
 			(uuid "a870b39d-d46b-4e60-86fa-009d92811c31")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/0ba67f90-927b-4a9b-b1dc-32a9d85f8a8c"
 					(reference "D2")
 					(unit 1)
@@ -1354,7 +1354,7 @@
 			(uuid "e21c3815-cbb1-4733-86a3-8283e8e82475")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/0ba67f90-927b-4a9b-b1dc-32a9d85f8a8c"
 					(reference "#PWR019")
 					(unit 1)

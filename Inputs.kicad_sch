@@ -544,7 +544,7 @@
 			)
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
 					(page "11")
 				)
@@ -610,7 +610,7 @@
 			)
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
 					(page "16")
 				)
@@ -676,7 +676,7 @@
 			)
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
 					(page "13")
 				)
@@ -742,7 +742,7 @@
 			)
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
 					(page "14")
 				)
@@ -808,7 +808,7 @@
 			)
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
 					(page "17")
 				)
@@ -874,7 +874,7 @@
 			)
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
 					(page "12")
 				)
@@ -940,7 +940,7 @@
 			)
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
 					(page "10")
 				)
@@ -1006,7 +1006,7 @@
 			)
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
 					(page "8")
 				)
@@ -1072,7 +1072,7 @@
 			)
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
 					(page "15")
 				)
@@ -1138,7 +1138,7 @@
 			)
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026"
 					(page "9")
 				)

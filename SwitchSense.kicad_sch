@@ -2127,7 +2127,7 @@
 			(uuid "294e6944-f506-4a42-9f8b-f1a21d0b4191")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026/19ff984b-2558-4eca-abbf-d6f3f8114e5c"
 					(reference "D36")
 					(unit 1)
@@ -2243,7 +2243,7 @@
 			(uuid "233b987a-6240-46d1-981a-04c2e4a67e28")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026/19ff984b-2558-4eca-abbf-d6f3f8114e5c"
 					(reference "R34")
 					(unit 1)
@@ -2373,7 +2373,7 @@
 			(uuid "aac9beea-7131-4890-acac-16d38b2756fa")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026/19ff984b-2558-4eca-abbf-d6f3f8114e5c"
 					(reference "D20")
 					(unit 1)
@@ -2497,7 +2497,7 @@
 			(uuid "9294e7a9-91e3-456a-81a4-67f61ef519c6")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026/19ff984b-2558-4eca-abbf-d6f3f8114e5c"
 					(reference "Q4")
 					(unit 1)
@@ -2611,7 +2611,7 @@
 			(uuid "980ddd1d-d7d0-4a34-a804-8db47df997a7")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026/19ff984b-2558-4eca-abbf-d6f3f8114e5c"
 					(reference "#PWR055")
 					(unit 1)
@@ -2726,7 +2726,7 @@
 			(uuid "824c7d45-ce87-44cc-b4fb-5a68c41365d8")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026/19ff984b-2558-4eca-abbf-d6f3f8114e5c"
 					(reference "C24")
 					(unit 1)
@@ -2840,7 +2840,7 @@
 			(uuid "e933db4d-ae44-4b5b-959d-f0ca24f04275")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026/19ff984b-2558-4eca-abbf-d6f3f8114e5c"
 					(reference "#PWR054")
 					(unit 1)
@@ -2954,7 +2954,7 @@
 			(uuid "3fcb5192-a929-4eea-abc4-a5fe9bf4f0ce")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026/19ff984b-2558-4eca-abbf-d6f3f8114e5c"
 					(reference "#PWR053")
 					(unit 1)
@@ -3072,7 +3072,7 @@
 			(uuid "eff2ff12-d044-4960-a9d0-ae7159d28c08")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026/19ff984b-2558-4eca-abbf-d6f3f8114e5c"
 					(reference "D19")
 					(unit 1)
@@ -3194,7 +3194,7 @@
 			(uuid "764c1e86-f5aa-4f7c-b2d6-e70418a5ec8b")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026/19ff984b-2558-4eca-abbf-d6f3f8114e5c"
 					(reference "J9")
 					(unit 1)
@@ -3312,7 +3312,7 @@
 			(uuid "24c54234-c030-401f-ab73-f91cc0fe9bf9")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026/19ff984b-2558-4eca-abbf-d6f3f8114e5c"
 					(reference "R36")
 					(unit 1)
@@ -3430,7 +3430,7 @@
 			(uuid "69c9849c-059a-4e59-8b81-34ffb39128e6")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026/19ff984b-2558-4eca-abbf-d6f3f8114e5c"
 					(reference "R35")
 					(unit 1)
@@ -3547,7 +3547,7 @@
 			(uuid "7c99e657-f30c-4388-8487-4901cecc2b89")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/f5995ec4-65d7-405d-8186-52c2665d3026/19ff984b-2558-4eca-abbf-d6f3f8114e5c"
 					(reference "R37")
 					(unit 1)

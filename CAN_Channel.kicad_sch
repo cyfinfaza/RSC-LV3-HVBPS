@@ -1409,7 +1409,7 @@
 			(uuid "11921f03-1b74-412f-b83e-b72e5806cbe4")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "C19")
 					(unit 1)
@@ -1514,7 +1514,7 @@
 			(uuid "fe986eb2-5055-4e38-a46c-af332aea6df2")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "U4")
 					(unit 1)
@@ -1598,7 +1598,7 @@
 			(uuid "85a3857a-d5b8-4634-a1cf-54fab49b9016")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "R21")
 					(unit 1)
@@ -1680,7 +1680,7 @@
 			(uuid "147c7e39-feac-4194-b970-756c14f63e0b")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "#PWR043")
 					(unit 1)
@@ -1766,7 +1766,7 @@
 			(uuid "fa1b21cc-0301-4609-9f67-ee3c5836b21e")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "C20")
 					(unit 1)
@@ -1848,7 +1848,7 @@
 			(uuid "c8b7118e-7488-4ef3-8280-338e2dfd5069")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "#PWR041")
 					(unit 1)
@@ -1934,7 +1934,7 @@
 			(uuid "9d8d21f6-e957-4e49-9d59-a6f855abba61")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "C18")
 					(unit 1)
@@ -2091,7 +2091,7 @@
 			(uuid "d0f30e2c-dde6-4b18-a009-f5995807785e")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "S4")
 					(unit 1)
@@ -2173,7 +2173,7 @@
 			(uuid "99d9145d-d4f6-4396-884a-d8cb0faf4d54")
 		)
 		(instances
-			(project "RSC-LV3-SwitchSense"
+			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/bf939f33-0653-4b59-bd63-3496752c5dd5/4645bb46-e9fc-4e0d-92f5-2f289dd6d3ff"
 					(reference "#PWR042")
 					(unit 1)

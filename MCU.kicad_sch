@@ -4713,10 +4713,10 @@
 		(uuid "de39bcfb-177b-40ff-bfeb-03887fda7a54")
 	)
 	(junction
-		(at 130.81 67.31)
+		(at 134.62 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e2106a1f-e8e1-4e22-856f-b07aa72b2153")
+		(uuid "e0b37463-5f8a-4da6-adac-74acd6212052")
 	)
 	(junction
 		(at 217.17 148.59)
@@ -4785,16 +4785,6 @@
 			(type default)
 		)
 		(uuid "07523b64-53af-4589-b469-7457860887be")
-	)
-	(wire
-		(pts
-			(xy 120.65 67.31) (xy 130.81 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08764100-fc7b-4bf8-b0ec-e4ba3e1927db")
 	)
 	(wire
 		(pts
@@ -4888,6 +4878,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 69.85) (xy 144.78 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26ee1986-4417-42a4-bd57-c38778697b84")
+	)
+	(wire
+		(pts
 			(xy 110.49 148.59) (xy 110.49 182.88)
 		)
 		(stroke
@@ -4925,6 +4925,16 @@
 			(type default)
 		)
 		(uuid "36b47790-f79f-4bef-bdef-405b856907c3")
+	)
+	(wire
+		(pts
+			(xy 138.43 59.69) (xy 144.78 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e22ce74-d2f1-463e-801f-a0c4c95b7185")
 	)
 	(wire
 		(pts
@@ -5028,16 +5038,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 57.15) (xy 127 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e58d89a-0a33-4365-8bd8-210e759e22a8")
-	)
-	(wire
-		(pts
 			(xy 124.46 148.59) (xy 128.27 148.59)
 		)
 		(stroke
@@ -5045,6 +5045,16 @@
 			(type default)
 		)
 		(uuid "503842aa-ab67-449e-b837-54eda2bb12e8")
+	)
+	(wire
+		(pts
+			(xy 124.46 59.69) (xy 124.46 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55080d16-2301-44cf-865d-77dc3e489f85")
 	)
 	(wire
 		(pts
@@ -5148,13 +5158,13 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 57.15) (xy 140.97 59.69)
+			(xy 124.46 69.85) (xy 134.62 69.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7685600f-6402-4495-8d33-f5961ed903fc")
+		(uuid "75f32111-52b8-4aba-9875-d9381bbe1aeb")
 	)
 	(wire
 		(pts
@@ -5278,16 +5288,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 57.15) (xy 140.97 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99a83fec-90cf-4fca-b31c-3e311b84e0f2")
-	)
-	(wire
-		(pts
 			(xy 43.18 144.78) (xy 43.18 146.05)
 		)
 		(stroke
@@ -5295,16 +5295,6 @@
 			(type default)
 		)
 		(uuid "ae6b5872-b80f-44a8-a0ba-20a74c833352")
-	)
-	(wire
-		(pts
-			(xy 130.81 67.31) (xy 140.97 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b101ca9a-bd16-4fb0-9eef-a2afec4313a8")
 	)
 	(wire
 		(pts
@@ -5325,16 +5315,6 @@
 			(type default)
 		)
 		(uuid "b70020b4-f3b2-4867-bd6d-317dd110387f")
-	)
-	(wire
-		(pts
-			(xy 120.65 57.15) (xy 120.65 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9723f36-5693-4b78-98aa-921e59abdeb0")
 	)
 	(wire
 		(pts
@@ -5368,6 +5348,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 59.69) (xy 144.78 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcebe86f-73ce-4253-98c5-9d1be73d864d")
+	)
+	(wire
+		(pts
 			(xy 59.69 72.39) (xy 90.17 72.39)
 		)
 		(stroke
@@ -5395,6 +5385,16 @@
 			(type default)
 		)
 		(uuid "c1f0c6f1-93ae-4d67-afb4-1f5f8a947a70")
+	)
+	(wire
+		(pts
+			(xy 124.46 59.69) (xy 130.81 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7c99e2f-cc23-4e54-b494-7983460f85d7")
 	)
 	(wire
 		(pts
@@ -6508,6 +6508,30 @@
 			)
 		)
 	)
+	(global_label "LSE_IN"
+		(shape output)
+		(at 124.46 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a92cbebb-53ed-4693-b1dc-37de48739423")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 115.1853 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "OUT_4"
 		(shape output)
 		(at 251.46 85.09 0)
@@ -6868,6 +6892,30 @@
 			)
 		)
 	)
+	(global_label "LSE_OUT"
+		(shape input)
+		(at 144.78 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e008c2ca-2fe5-4dfa-94a9-a92c69072f73")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 155.748 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "LSE_IN"
 		(shape input)
 		(at 195.58 74.93 180)
@@ -6889,54 +6937,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "LSE_IN"
-		(shape output)
-		(at 120.65 57.15 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e499f6b9-b942-44e0-980d-4ff80d3de00c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.3753 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "LSE_OUT"
-		(shape input)
-		(at 140.97 57.15 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ec0e7738-4b3c-4349-94a2-c997242f138c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 151.938 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -7658,6 +7658,88 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 124.46 66.04 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "22ff8cfe-6e39-4f1b-ba38-aafcfcd04f81")
+		(property "Reference" "C8"
+			(at 128.27 64.7699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "6.8p"
+			(at 128.27 67.3099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 125.4252 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 124.46 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7c53d517-41e3-4173-aca4-1f0d2bff4342")
+		)
+		(pin "2"
+			(uuid "a4bcdff1-deec-493e-ab44-0ecbb2779176")
+		)
+		(instances
+			(project "RSC-LV3-HVBPS"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 138.43 33.02 0)
 		(unit 1)
 		(body_style 1)
@@ -7819,6 +7901,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 144.78 66.04 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "49d035a3-18bb-41e6-b4ab-1035d5eb6328")
+		(property "Reference" "C31"
+			(at 148.59 64.7699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "6.8p"
+			(at 148.59 67.3099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 145.7452 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 144.78 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2ade92b8-b0c6-4a06-ab25-4195d740d373")
+		)
+		(pin "2"
+			(uuid "0ed29375-48ba-470d-8a9c-ebe626f83715")
+		)
+		(instances
+			(project "RSC-LV3-HVBPS"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b"
+					(reference "C31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 53.34 107.95 180)
 		(unit 1)
@@ -7895,84 +8059,6 @@
 			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b"
 					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 130.81 67.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4f68a5ac-0896-472f-a2cf-461713976664")
-		(property "Reference" "#PWR074"
-			(at 130.81 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 130.81 72.39 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 130.81 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "00db8fc0-4c51-49b4-a002-f5fbe42d0dcf")
-		)
-		(instances
-			(project "RSC-LV3-HVBPS"
-				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b"
-					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -8539,88 +8625,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 140.97 63.5 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7387e83b-a9bb-4d0d-92de-91cd10fc2929")
-		(property "Reference" "C31"
-			(at 144.78 62.2299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "6.8p"
-			(at 144.78 64.7699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 141.9352 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 140.97 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f12df325-402b-4ae0-86b6-3aa56b019240")
-		)
-		(pin "2"
-			(uuid "c080d3ca-0910-4a22-8ca2-f7757a76dc0c")
-		)
-		(instances
-			(project "RSC-LV3-HVBPS"
-				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b"
-					(reference "C31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 247.65 148.59 0)
 		(unit 1)
@@ -8693,88 +8697,6 @@
 			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b"
 					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 120.65 63.5 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "785c6d40-a7d2-4fc4-ba39-2681bb51783c")
-		(property "Reference" "C8"
-			(at 124.46 62.2299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "6.8p"
-			(at 124.46 64.7699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 121.6152 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 120.65 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 120.65 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "73168080-0f3c-4caf-9499-a64cb404a99c")
-		)
-		(pin "2"
-			(uuid "9fbbf9d0-b189-4380-bf49-5d789e15885b")
-		)
-		(instances
-			(project "RSC-LV3-HVBPS"
-				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b"
-					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -10384,86 +10306,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Crystal")
-		(at 130.81 57.15 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c239b4ba-6b5b-4ee3-a686-fdd9efc7d846")
-		(property "Reference" "Y2"
-			(at 130.81 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "32.768 kHz 6pF"
-			(at 130.81 52.07 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Crystal:Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal"
-			(at 130.81 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Two pin crystal"
-			(at 130.81 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "3be77213-cf8d-4ce8-a810-ac2b71f041c7")
-		)
-		(pin "1"
-			(uuid "7778fad8-ab5c-43ae-b300-9478ca3125fa")
-		)
-		(instances
-			(project "RSC-LV3-HVBPS"
-				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b"
-					(reference "Y2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 43.18 130.81 0)
 		(unit 1)
@@ -11061,6 +10903,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 134.62 69.85 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e8ee00ab-a124-4588-ae54-b31a5fe0bb33")
+		(property "Reference" "#PWR074"
+			(at 134.62 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 134.62 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 134.62 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "19bc4b98-a027-40eb-a80c-cee0f7b15107")
+		)
+		(instances
+			(project "RSC-LV3-HVBPS"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b"
+					(reference "#PWR074")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 55.88 99.06 0)
 		(unit 1)
@@ -11211,6 +11131,86 @@
 			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Crystal")
+		(at 134.62 59.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f630ca99-1802-468e-9d4f-61fd16ff9849")
+		(property "Reference" "Y2"
+			(at 134.62 52.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "32.768 kHz 6pF"
+			(at 134.62 54.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Crystal:Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal"
+			(at 134.62 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Two pin crystal"
+			(at 134.62 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a2f10f51-9e01-4571-bfed-a708ff521f55")
+		)
+		(pin "1"
+			(uuid "77eeaaae-85ee-46b0-88ec-9b4269e7a691")
+		)
+		(instances
+			(project "RSC-LV3-HVBPS"
+				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b"
+					(reference "Y2")
 					(unit 1)
 				)
 			)

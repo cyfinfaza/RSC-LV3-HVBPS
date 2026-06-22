@@ -943,7 +943,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0887bd20-7941-4991-b429-43675559c67f")
-		(property "Reference" "R7"
+		(property "Reference" "R17"
 			(at 135.89 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1007,11 +1007,11 @@
 		(instances
 			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/0ba67f90-927b-4a9b-b1dc-32a9d85f8a8c"
-					(reference "R7")
+					(reference "R17")
 					(unit 1)
 				)
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/61bc5597-943d-40ea-9229-119231165e79"
-					(reference "R10")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -1028,7 +1028,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "10e2ce0a-d760-47d8-b12d-4c1c0c1f77d5")
-		(property "Reference" "R6"
+		(property "Reference" "R16"
 			(at 128.27 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1092,11 +1092,11 @@
 		(instances
 			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/0ba67f90-927b-4a9b-b1dc-32a9d85f8a8c"
-					(reference "R6")
+					(reference "R16")
 					(unit 1)
 				)
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/61bc5597-943d-40ea-9229-119231165e79"
-					(reference "R9")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -1113,7 +1113,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ad22fa4b-f929-4829-b5f8-4a9d29c0ddea")
-		(property "Reference" "R8"
+		(property "Reference" "R18"
 			(at 143.51 82.5499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1177,11 +1177,11 @@
 		(instances
 			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/0ba67f90-927b-4a9b-b1dc-32a9d85f8a8c"
-					(reference "R8")
+					(reference "R18")
 					(unit 1)
 				)
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/61bc5597-943d-40ea-9229-119231165e79"
-					(reference "R11")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -1200,7 +1200,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7f4c13a-72ca-4426-b8db-1662117bc42d")
-		(property "Reference" "D2"
+		(property "Reference" "D6"
 			(at 118.11 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1274,11 +1274,11 @@
 		(instances
 			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/0ba67f90-927b-4a9b-b1dc-32a9d85f8a8c"
-					(reference "D2")
+					(reference "D6")
 					(unit 1)
 				)
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/61bc5597-943d-40ea-9229-119231165e79"
-					(reference "D3")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -1296,7 +1296,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dcf4a1e5-9e71-42b0-9263-eab89e66b505")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR037"
 			(at 125.73 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -1356,11 +1356,11 @@
 		(instances
 			(project "RSC-LV3-HVBPS"
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/0ba67f90-927b-4a9b-b1dc-32a9d85f8a8c"
-					(reference "#PWR019")
+					(reference "#PWR037")
 					(unit 1)
 				)
 				(path "/ea09e839-df61-4c3f-abdc-aa7ae2f772fe/4aa7ee16-37d7-4a92-b053-2235cd7f2d7b/61bc5597-943d-40ea-9229-119231165e79"
-					(reference "#PWR020")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
